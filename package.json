@@ -26,10 +26,10 @@
   },
   "jam":{
     "main":"src/logger.js",
-	"include": [
-      src/logger.js",
+    "include": [
+      "src/logger.js",
       "README.md",
       "MIT-LICENSE.txt"
-	]
+    ]
   }
 }
